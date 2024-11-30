@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\AtividadeArvoreBasica\bin\Debug\net8.0\AtividadeArvoreBasica.exe
+C:\Users\RL\desktop\AtividadeArvoreBasica\bin\Debug\net8.0\AtividadeArvoreBasica.deps.json
+C:\Users\RL\desktop\AtividadeArvoreBasica\bin\Debug\net8.0\AtividadeArvoreBasica.runtimeconfig.json
+C:\Users\RL\desktop\AtividadeArvoreBasica\bin\Debug\net8.0\AtividadeArvoreBasica.dll
+C:\Users\RL\desktop\AtividadeArvoreBasica\bin\Debug\net8.0\AtividadeArvoreBasica.pdb
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.AssemblyInfo.cs
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.dll
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\refint\AtividadeArvoreBasica.dll
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.pdb
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\AtividadeArvoreBasica.genruntimeconfig.cache
+C:\Users\RL\desktop\AtividadeArvoreBasica\obj\Debug\net8.0\ref\AtividadeArvoreBasica.dll
